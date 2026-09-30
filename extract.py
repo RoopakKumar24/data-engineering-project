@@ -1,2 +1,2 @@
 def extract():
-    print("Extracting data from source")
+    print("Extracting customer data")
