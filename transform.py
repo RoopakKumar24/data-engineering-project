@@ -1,3 +1,3 @@
 def transform(data):
-    print("Transforming data")
+    print("Cleaning customer data")
     return data
