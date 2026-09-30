@@ -1,2 +1,2 @@
 def extract():
-    print("Extracting sales data")
+    print("Extracting customer data from MySQL")
