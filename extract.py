@@ -1,2 +1,2 @@
 def extract():
-    print("Extracting customer data")
+    print("Extracting sales data")
