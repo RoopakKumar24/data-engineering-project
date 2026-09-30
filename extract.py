@@ -1,2 +1,2 @@
-def extract():
-    print("Extracting customer data from PostgreSQl")
+def extract()
+    print("Extracting customer data from API")
